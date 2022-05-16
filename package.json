@@ -1,0 +1,22 @@
+{
+    "name": "the-hat-maker",
+    "displayName": "The Hat Maker",
+    "description": "A proper hat needs a proper dark theme",
+    "version": "1.0.0",
+    "publisher": "TopHatGames",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "The Hat Maker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/The Hat Maker-color-theme.json"
+            }
+        ]
+    }
+}
