@@ -2,7 +2,7 @@
     "name": "the-hat-maker",
     "displayName": "The Hat Maker",
     "description": "A proper hat needs a proper dark theme",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "TopHatGames",
     "icon": "./icon/favicon_500x500.png",
     "repository": {
