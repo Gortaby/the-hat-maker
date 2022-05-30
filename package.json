@@ -4,7 +4,7 @@
     "description": "A proper hat needs a proper dark theme",
     "version": "1.0.2",
     "publisher": "TopHatGames",
-    "icon": "./icon/favicon_500x500.png",
+    "icon": "icon/favicon_500x500.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/Gortaby/the-hat-maker"
